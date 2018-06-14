@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "molde-4fichas-07f27a2eaa0b64d09c0cf4b7b9f3114cef8f85e6", "Assembly-CSharp.csproj", "{74CD8283-F19F-1D9F-7B5B-34C30AB1EBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CD8283-F19F-1D9F-7B5B-34C30AB1EBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CD8283-F19F-1D9F-7B5B-34C30AB1EBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CD8283-F19F-1D9F-7B5B-34C30AB1EBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CD8283-F19F-1D9F-7B5B-34C30AB1EBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
